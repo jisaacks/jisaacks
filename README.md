@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### Check out [my book](https://www.manning.com/books/get-programming-with-javascript-next):
+
+<a target="_blank" href="https://www.manning.com/books/get-programming-with-javascript-next">
+<img src="https://images.manning.com/360/480/resize/book/e/eeaf0db-6dda-427d-b87a-3ea51e820dc9/Isaacks-JavaScriptNext_hires.png" alt="drawing" width="100"/>
+</a>
+
 <!--
 **jisaacks/jisaacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
